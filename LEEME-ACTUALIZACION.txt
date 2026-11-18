@@ -1,0 +1,44 @@
+EDIS ALVARADO — WEB ACTUALIZADA
+19 de noviembre de 2026
+
+Este ZIP contiene la web completa actualizada sobre tu archivo
+edis-alvarado-github.zip. No es el ZIP antiguo del 4 de octubre.
+
+INCLUYE
+- Los libros «Hoy es» y «Mañana será», con sus enlaces de Amazon.
+- Portada, sinopsis y contraportada ampliable de «Mañana será».
+- Los 15 carteles originales: 6 de Hoy es, 6 de Mañana será y 3 de la trilogía.
+- Filtros, visor de imágenes, navegación y descarga de originales.
+- Español e inglés en los textos de la web. Las imágenes conservan el español.
+- Vídeos, presentación, retratos, logotipo y créditos de tu web anterior.
+- Adaptación a móvil, tablet y ordenador.
+
+PARA VER LA WEB EN TU ORDENADOR
+1. Extrae el ZIP completamente. No abras index.html desde dentro del ZIP.
+2. Entra en la carpeta Edis-Alvarado-Actualizado y abre index.html.
+3. Si prefieres VS Code, abre esa carpeta y usa Live Server.
+
+PARA ACTUALIZAR EL REPOSITORIO CON GITHUB DESKTOP
+1. Conserva una copia de tu carpeta actual como respaldo.
+2. En GitHub Desktop selecciona Edis-Alvarado-Book1.
+3. Repository > Show in Explorer abre la carpeta correcta del repositorio.
+4. Copia EL CONTENIDO de Edis-Alvarado-Actualizado dentro de esa carpeta.
+   Acepta reemplazar los archivos coincidentes y combinar la carpeta assets.
+   index.html debe quedar en la raíz del repositorio, no dentro de otra carpeta.
+   Conserva la carpeta .git y cualquier configuración que ya tenga el repositorio.
+5. En GitHub Desktop revisa los cambios, escribe «Actualizar libros y galería»
+   y pulsa Commit to main; después Push origin.
+6. Espera a que GitHub Pages termine su despliegue y recarga la web con Ctrl+F5.
+
+Publicación habitual:
+https://techantoni380-create.github.io/Edis-Alvarado-Book1/
+
+Este ZIP se ha preparado para que lo revises. No se ha subido automáticamente
+a GitHub ni se ha modificado la web pública.
+
+NOTAS
+Los enlaces de Amazon se han tomado de los materiales enviados por Edis:
+Hoy es: https://www.amazon.com/dp/B0HFW87YMJ
+Mañana será: https://www.amazon.com/dp/B0HRX3119S
+No se incluyen precios fijos. La disponibilidad y compra se consultan en Amazon.
+Las fuentes web requieren conexión; hay fuentes alternativas para uso sin conexión.
